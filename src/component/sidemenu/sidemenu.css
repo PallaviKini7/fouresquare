@@ -1,0 +1,9 @@
+.side-rect {
+    height: 93.8%;
+    width: 38%;
+    /* background-color: #FFFFFF; */
+    background-color: red;
+    z-index: 1;
+    position: absolute;
+    overflow-x: hidden;
+}
